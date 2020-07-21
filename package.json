@@ -1,0 +1,24 @@
+{
+  "name": "mongodb_5_update_data_update_first",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ouka",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.25"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OukaMiyuki/MongoDB_Percobaan-4_-_Update-Data-Query-First.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OukaMiyuki/MongoDB_Percobaan-4_-_Update-Data-Query-First/issues"
+  },
+  "homepage": "https://github.com/OukaMiyuki/MongoDB_Percobaan-4_-_Update-Data-Query-First#readme",
+  "description": ""
+}
